@@ -75,7 +75,7 @@ body {
 }
 @media (min-width: 1600px) and (max-width: 1919px) {
     .Container {
-        max-width: 50%;
+        max-width: 20%;
         margin: 110px auto;
         padding: 20px;
         border-radius: 10px;
@@ -108,7 +108,7 @@ body {
 }
 
 .Container {
-    max-width: 50%;
+    max-width: 20%;
     margin: 110px auto;
     padding: 20px;
     border-radius: 10px;
